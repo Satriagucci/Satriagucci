@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satriagucci
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Web Developer
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Web Development, Android Development
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me on email @fngevnthppv@gmail.com
 
